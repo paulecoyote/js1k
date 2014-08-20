@@ -1,4 +1,4 @@
 [submodule "js1k"]
 	path = js1k
-	url = git@github.com:paulecoyote/js1k.git
+	url = http://github.com:paulecoyote/js1k.git
 	branch = master
